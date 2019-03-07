@@ -8,4 +8,5 @@ I have performed the following in Spark:
 4. Create a decision tree classifier to predict days with low humidity.
 
 The project has been also implemented using KNIME Software to test it with Spark results to check consistency.
+
 Note(regarding Databricks ) :  [DBFS](https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html) is a Databricks File System that allows you to store data for querying inside of Databricks.

@@ -1,4 +1,4 @@
-# Prediction of Weather(low humidity days - susceptitbility for forest fire) through Implementation of Decision Tree using Spark Framework over a Databricks cluster
+# Prediction of Weather(low humidity days - susceptibility for forest fire) through Implementation of Decision Tree using Spark Framework over a Databricks cluster
 This project is used to predict weather forecast(low humidity days - susceptitbility for forest fire) through implementation of a Decision-Tree Supervised learning algorithm on Spark Execution Engine over Databricks Cluster (its Community Cloud Service) 
 
 I have performed the following in Spark:

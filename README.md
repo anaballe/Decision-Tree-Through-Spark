@@ -1,4 +1,4 @@
-# Prediction of Weather(low humidity days - susceptitbility for fire) through Implementation of Decision Tree using Spark Framework over a Databricks cluster
+# Prediction of Weather(low humidity days - susceptitbility for forest fire) through Implementation of Decision Tree using Spark Framework over a Databricks cluster
 This project is used to predict weather forecast(low humidity days - susceptitbility for forest fire) through implementation of a Decision-Tree Supervised learning algorithm on Spark Execution Engine over Databricks Cluster (its Community Cloud Service)
 
 [DBFS](https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html) is a Databricks File System that allows you to store data for querying inside of Databricks. This notebook assumes that you have a file already inside of DBFS that you would like to read from.

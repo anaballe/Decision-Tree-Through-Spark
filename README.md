@@ -4,7 +4,7 @@ This project is a implementation of a Decision-Tree Supervised learning algorith
 [DBFS](https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html) is a Databricks File System that allows you to store data for querying inside of Databricks. This notebook assumes that you have a file already inside of DBFS that you would like to read from.
  
 I have performed the following in Spark:
-1. Generate a categorical variable from a numeric variable
+1. Generated low_humidity_days(a categorical variable) from relative_humidity_at3pm numeric variables
 2. Aggregate the features into one single column
 3. Randomly split the data into training and test sets
 4. Create a decision tree classifier to predict days with low humidity.

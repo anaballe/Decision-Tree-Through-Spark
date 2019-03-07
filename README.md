@@ -8,3 +8,5 @@ I have performed the following in Spark:
 2. Aggregate the features into one single column
 3. Randomly split the data into training and test sets
 4. Create a decision tree classifier to predict days with low humidity.
+
+The project has been also implemented using KNIME Software to test it with Spark results to check consistency.

@@ -9,4 +9,6 @@ I have performed the following in Spark:
 
 The project has been also implemented using KNIME Software to test it with Spark results to check consistency.
 
+Published Link : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6954848893521581/2982248270654121/2558959897262863/latest.html
+
 Note(regarding Databricks ) :  [DBFS](https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html) is a Databricks File System that allows you to store data for querying inside of Databricks.
